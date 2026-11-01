@@ -96,8 +96,6 @@ The practice includes 64 questions covering different stages of the data cleanin
 - Converting data types using Pandas
 - Handling datetime values
 - Filtering and sorting records
-- Performing final data quality checks
-- Exporting cleaned datasets to CSV
 
 ## Dataset
 
